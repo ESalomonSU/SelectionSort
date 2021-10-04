@@ -1,0 +1,12 @@
+/Users/salom11/Desktop/ArrayClass2/ArrayClass2/bin/Debug/netcoreapp3.1/ArrayClass2.deps.json
+/Users/salom11/Desktop/ArrayClass2/ArrayClass2/bin/Debug/netcoreapp3.1/ArrayClass2.runtimeconfig.json
+/Users/salom11/Desktop/ArrayClass2/ArrayClass2/bin/Debug/netcoreapp3.1/ArrayClass2.runtimeconfig.dev.json
+/Users/salom11/Desktop/ArrayClass2/ArrayClass2/bin/Debug/netcoreapp3.1/ArrayClass2.dll
+/Users/salom11/Desktop/ArrayClass2/ArrayClass2/bin/Debug/netcoreapp3.1/ArrayClass2.pdb
+/Users/salom11/Desktop/ArrayClass2/ArrayClass2/obj/Debug/netcoreapp3.1/ArrayClass2.csprojAssemblyReference.cache
+/Users/salom11/Desktop/ArrayClass2/ArrayClass2/obj/Debug/netcoreapp3.1/ArrayClass2.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/ArrayClass2/ArrayClass2/obj/Debug/netcoreapp3.1/ArrayClass2.AssemblyInfo.cs
+/Users/salom11/Desktop/ArrayClass2/ArrayClass2/obj/Debug/netcoreapp3.1/ArrayClass2.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/ArrayClass2/ArrayClass2/obj/Debug/netcoreapp3.1/ArrayClass2.dll
+/Users/salom11/Desktop/ArrayClass2/ArrayClass2/obj/Debug/netcoreapp3.1/ArrayClass2.pdb
+/Users/salom11/Desktop/ArrayClass2/ArrayClass2/obj/Debug/netcoreapp3.1/ArrayClass2.genruntimeconfig.cache
